@@ -1,0 +1,80 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "ced.morales",
+      "email": "ced.morales@duocuc.cl",
+      "password": "duoc1234",
+      "rut": "21045034-2",
+      "isactive": true,
+      "imagen": ""
+    },
+    {
+      "id": "2",
+      "username": "feli.sandovals",
+      "email": "feli.sandovals@duocuc.cl",
+      "password": "duoc1234",
+      "rut": "20843835-2",
+      "isactive": true,
+      "imagen": ""
+    }
+  ],
+  "asignaturas": [
+    {
+      "id": "1",
+      "nombre": "Inteligencia de Negocios",
+      "profesor": "Juan Alberto",
+      "fecha": "24/10/2024",
+      "descripcion": "Esta asignatura se enfoca en el uso de herramientas y técnicas analíticas para transformar datos en información valiosa para la toma de decisiones empresariales.",
+      "imagen": "assets/inteligencia.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Mentalidad Emp.",
+      "profesor": "Juan Gonzalez",
+      "fecha": "21/10/2024",
+      "descripcion": "En esta asignatura se desarrollan habilidades y actitudes necesarias para identificar oportunidades de negocio y crear nuevas empresas innovadoras.",
+      "imagen": "assets/emprendedora.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Gestión de Proyectos",
+      "profesor": "Juan Perez",
+      "fecha": "21/10/2024",
+      "descripcion": "Aquí aprenderás a planificar, ejecutar y controlar proyectos de tecnología de la información, utilizando metodologías ágiles y herramientas de gestión.",
+      "imagen": "assets/gestion.png"
+    },
+    {
+      "id": "4",
+      "nombre": "Etica Profesional",
+      "profesor": "Juan Morales",
+      "fecha": "21/10/2024",
+      "descripcion": "Esta asignatura aborda los principios éticos que guían el comportamiento profesional, promoviendo la responsabilidad y el respeto en el ámbito laboral.",
+      "imagen": "assets/etica.png"
+    }
+  ],
+  "justificaciones": [],
+  "qr": [],
+  "docentes": [
+    {
+      "id": "c845",
+      "username": "Juan Gonzalez",
+      "email": "juangonzalez@docenteduoc.cl",
+      "password": "duoc1234",
+      "rut": "23567678-2",
+      "isactive": true,
+      "asignatura": "Etica Profesional",
+      "imagen": ""
+    },
+    {
+      "id": "693d",
+      "username": "Juan Alberto",
+      "email": "juanalberto@docenteduoc.cl",
+      "password": "duoc1234",
+      "rut": "34567657-2",
+      "isactive": true,
+      "asignatura": "Mentalidad Emp.",
+      "imagen": ""
+    }
+  ]
+}
